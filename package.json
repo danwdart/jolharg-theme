@@ -1,0 +1,26 @@
+{
+  "name": "jolharg-theme",
+  "version": "0.0.1",
+  "description": "Theme files for JolHarg and dandart.co.uk sites",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danwdart/jolharg-theme.git"
+  },
+  "keywords": [
+    "theme",
+    "jolharg",
+    "dan",
+    "dart",
+    "css",
+    "pug"
+  ],
+  "author": "Dan Dart <git@dandart.co.uk>",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/danwdart/jolharg-theme/issues"
+  },
+  "homepage": "https://github.com/danwdart/jolharg-theme#readme"
+}
