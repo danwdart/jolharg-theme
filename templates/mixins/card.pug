@@ -5,7 +5,7 @@ mixin card(title, url, icon)
       h4.card-title= title
       p.card-text
         block
-      a.btn.btn-secondary(href=url target='_blank') Visit
+      a.btn.btn-secondary(href=url,target='_blank',rel='noopener') Visit
 
 mixin card-defunct(title, icon)
   .card.col-md-4.text-center
