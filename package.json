@@ -1,6 +1,6 @@
 {
   "name": "@jolharg/website-theme",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Theme files for JolHarg and dandart.co.uk sites",
   "main": "index.js",
   "scripts": {
