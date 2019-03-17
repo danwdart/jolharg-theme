@@ -1,6 +1,6 @@
 mixin menuitem(name, isDefault)
   li.nav-item
     input(type='radio',style='display:none',checked=isDefault,name='selected',id=name,value=name)
-    label(for=name)
+    label.mb-0(for=name)
       a.nav-link.btn.btn-sm= name
     block
