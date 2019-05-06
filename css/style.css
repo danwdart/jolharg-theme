@@ -30,6 +30,10 @@ body {
     overflow: auto;
 }
 
+.nav-item {
+    flex: 0 0 auto;
+}
+
 .nav-link:hover {
     transform: scale(1.1);
 }
