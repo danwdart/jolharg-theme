@@ -3,8 +3,7 @@
   "version": "0.0.5",
   "description": "Theme files for JolHarg and dandart.co.uk sites",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jolharg/website-theme.git"
