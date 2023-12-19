@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/jolharg/website-theme#readme",
   "dependencies": {
-    "@snyk/protect": "^1.1108.0"
+    "@snyk/protect": "^1.1264.0"
   }
 }
